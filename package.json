@@ -1,0 +1,8 @@
+{
+  "name": "MyCV",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SergLam/serglam.github.io.git",
+  "author": "SergLam <lamcevs0@gmail.com>",
+  "license": "MIT"
+}
